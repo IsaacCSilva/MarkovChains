@@ -1,4 +1,4 @@
-%% Problem 2
+
  %% Part A
  n=20;
  nv=0:n;
@@ -14,6 +14,7 @@ title('PageRank V1 = [1/5,1/5,1/5,1/5,1/5]')
 xlabel('Step')
 ylabel('Prob')
 legend('A','B','C','D','E')
+
 %% Part B 
  n=20;
  nv=0:n;
